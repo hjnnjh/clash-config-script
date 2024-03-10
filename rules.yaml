@@ -1,0 +1,24 @@
+rules:
+ - DOMAIN-KEYWORD,gradio,🤖️ ChatGPT
+ - DOMAIN-KEYWORD,bing,🤖️ ChatGPT
+ - DOMAIN-KEYWORD,openai,🤖️ ChatGPT
+ - DOMAIN-KEYWORD,bard,🤖️ ChatGPT
+ - DOMAIN-KEYWORD,anthropic,🤖️ ChatGPT
+ - DOMAIN,imap.gmail.com,📧 Apple Mail
+ - DOMAIN-KEYWORD,apple.com,🎯 全球直连
+ - DOMAIN,extension.doreso.com,🎯 全球直连
+ - DOMAIN,pubsonline.informs.org,🎯 全球直连
+ - DST-PORT,22303,🎯 全球直连
+ - DST-PORT,22304,🎯 全球直连
+ - DOMAIN,journals.sagepub.com,🎯 全球直连
+ - DOMAIN,ieeexplore.ieee.org,🎯 全球直连
+ - DOMAIN,www.sciencedirect.com,🎯 全球直连
+ - DOMAIN,webvpn.xjtu.edu.cn,🎯 全球直连
+ - DOMAIN,dl.acm.org,🎯 全球直连
+ - DOMAIN,link.springer.com,🎯 全球直连
+ - DOMAIN-KEYWORD,tandfonline,🎯 全球直连
+ - DOMAIN-KEYWORD,emerald,🎯 全球直连
+ - DOMAIN-KEYWORD,hbo,📹 HBOGO-Asia
+ - DOMAIN-KEYWORD,cloudfront,📹 HBOGO-Asia
+ - GEOIP,CN,🎯 全球直连
+ - MATCH,🐟 漏网之鱼
