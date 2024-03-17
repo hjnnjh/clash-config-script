@@ -5,3 +5,8 @@
 ## 脚本功能
 - 新建一些`proxies groups`;
 - 通过`rules.yaml`文件自定义流量转发规则并添加到`config.yaml`文件;
+- 添加规则之后将自动在当前目录下保存为`{input-config-file-name}-with-rules.yaml`文件。
+
+## 额外功能
+- 同步到`OneDrive`;
+- 自动上传到`RemoteServer`下的`clash`文件夹。
